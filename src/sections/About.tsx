@@ -64,8 +64,8 @@ export const About = () => {
                 width={326}
                 backgroundColor="rgba(0, 0, 0, 0)"
                 showAtmosphere
-                globeImageUrl="//unpkg.com/three-globe/example/img/earth-night.jpg"
-                bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
+                globeImageUrl="/assets/earth-night.jpg"
+                bumpImageUrl="/assets/earth-topology.png"
                 labelsData={[
                   {
                     lat: 26.8467,
