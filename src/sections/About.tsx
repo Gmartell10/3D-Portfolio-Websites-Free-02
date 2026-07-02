@@ -29,10 +29,9 @@ export const About = () => {
             />
 
             <div>
-              <p className="grid-headtext">Hi, I&apos;m Shubham</p>
+              <p className="grid-headtext">Welcome to Gio Wartell Website</p>
               <p className="grid-subtext">
-                With 5 years of experience, I have honed my skills in frontend
-                and backend development, with a focus on animated 3D websites.
+                Independet creative project focused on immersive 3D experiences, gaming, electronics, wildlife-nature conservation, tatto art, survival gear, fitness, some more.. Our mission is to build a community that combines technology, creativity, and environmental awareness. 
               </p>
             </div>
           </div>
@@ -47,10 +46,9 @@ export const About = () => {
             />
 
             <div>
-              <p className="grid-headtext">Tech Stack</p>
+              <p className="grid-headtext">Technologies & Creative Tools</p>
               <p className="grid-subtext">
-                I specialize in Javascript/Typescript with a focus on React and
-                Next.js ecosystems.
+              Unreal Engine, React, Three.js, Blender. Photoshop, Electronics repair & upgrades, game development, ethical cybersecurity, and digital art creation.
               </p>
             </div>
           </div>
@@ -68,10 +66,10 @@ export const About = () => {
                 bumpImageUrl="/assets/earth-topology.png"
                 labelsData={[
                   {
-                    lat: 26.8467,
-                    lng: 80.9462,
-                    text: "I'm here!",
-                    color: "white",
+                    lat: 19.4326,
+                    lng: -99.1332,
+                    text: "Wartell Studios HQ",
+                    color: "lime",
                     size: 20,
                   },
                 ]}
@@ -80,15 +78,15 @@ export const About = () => {
 
             <div>
               <p className="grid-headtext">
-                I work remotely across most timezones.
+                Global Community & Wildlife Awareness.
               </p>
 
               <p className="grid-subtext">
-                I&apos;m based in India, with remote work available.
+                I&apos;m based in México, with remote work available.
               </p>
 
               <Button href="#contact" containerClass="w-full mt-10" isBeam>
-                Contact Me
+                Text me!
               </Button>
             </div>
           </div>
@@ -103,10 +101,10 @@ export const About = () => {
             />
 
             <div>
-              <p className="grid-headtext">My Passion for Coding</p>
+              <p className="grid-headtext">Gaming, Wildlife & Creative Culture</p>
               <p className="grid-subtext">
-                I love solving problems and building things through code. Coding
-                isn&apos;t just my profession - it is my passion.
+                Wartell Studios combines game development, electronics, tatto art, MMA, outdoor, survival, environmental awareness, and interactive digital experiences into a single community.
+              
               </p>
             </div>
           </div>
@@ -122,7 +120,7 @@ export const About = () => {
 
             <div className="space-y-2">
               <p className="grid-subtext text-center">
-                Contact me through email
+                Contact Wartell Studios!
               </p>
 
               <div className="copy-container">

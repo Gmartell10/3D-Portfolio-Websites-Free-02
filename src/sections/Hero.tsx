@@ -24,11 +24,11 @@ export const Hero = () => {
     <section className="relative flex min-h-screen w-full flex-col">
       <div className="c-space mx-auto mt-20 flex w-full flex-col gap-3 sm:mt-36">
         <p className="text-center font-generalsans text-xl font-medium text-white sm:text-3xl">
-          Hi, I am Shubham <span className="waving-hand">👋</span>
+          WARTELL STUDIOS <span className="waving-hand">👋</span>
         </p>
 
         <p className="hero_tag text-gray_gradient">
-          Building Products &amp; Brands
+          Building Interactive Worlds & Communities
         </p>
       </div>
 
@@ -66,7 +66,7 @@ export const Hero = () => {
           containerClass="sm:w-fit w-full sm:min-w-96"
           href="#about"
         >
-          Let&apos;s work together
+          Explore Wartell Base
         </Button>
       </div>
     </section>

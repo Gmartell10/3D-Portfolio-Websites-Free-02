@@ -1,5 +1,5 @@
 {
-  "name": "threejs-portfolio",
+  "name": "wartell portfolio studio",
   "private": true,
   "version": "1.0.1",
   "type": "module",
@@ -13,8 +13,8 @@
     "format:fix": "prettier --write ."
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
+    "name": "Giovanni Martell Trujillo",
+    "email": "dosgmartell020498@gmail.com",
     "url": "https://github.com/sanidhyy"
   },
   "description": "Modern UI/UX Portfolio using React and Three.js",
