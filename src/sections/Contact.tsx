@@ -163,7 +163,7 @@ export const Contact = () => {
                 value={form.email}
                 onChange={handleChange}
                 className="field-input disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-75"
-                placeholder="john.doe@email.com"
+                placeholder="g.martell@email.com"
                 autoCapitalize="off"
                 disabled={isLoading}
               />

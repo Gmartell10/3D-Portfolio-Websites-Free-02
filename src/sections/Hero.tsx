@@ -28,7 +28,7 @@ export const Hero = () => {
         </p>
 
         <p className="hero_tag text-gray_gradient">
-          Building Interactive Worlds & Communities
+          Building Interactive Worlds
         </p>
       </div>
 

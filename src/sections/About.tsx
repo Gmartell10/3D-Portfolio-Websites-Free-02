@@ -82,7 +82,7 @@ export const About = () => {
               </p>
 
               <p className="grid-subtext">
-                I&apos;m based in México, with remote work available.
+                I&apos;m based in México, with remote work available to all universe.
               </p>
 
               <Button href="#contact" containerClass="w-full mt-10" isBeam>
